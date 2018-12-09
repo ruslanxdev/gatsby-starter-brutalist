@@ -20,7 +20,7 @@ const Layout = ({ children }: LayoutProps) => (
         }
       }
     `}
-    render={(data) => (
+    render={data => (
       <>
         <Helmet
           title={data.site.siteMetadata.title}
@@ -29,7 +29,7 @@ const Layout = ({ children }: LayoutProps) => (
             { name: 'keywords', content: 'sample, something' },
           ]}
         >
-          <html lang='en' />
+          <html lang="en" />
         </Helmet>
         <Header siteTitle={data.site.siteMetadata.title} />
         <div
