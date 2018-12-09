@@ -6,7 +6,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1. **Create a Gatsby site.**
 
   Use the Gatsby CLI to create a new site, specifying the starter.
 
@@ -15,7 +15,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
   npx gatsby new my-website https://github.com/ruslankhh/gatsby-starter-brutalist
   ```
 
-1.  **Start developing.**
+1. **Start developing.**
 
   Navigate into your new site’s directory and start it up.
 
@@ -24,7 +24,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
   gatsby develop
   ```
 
-1.  **Open the source code and start editing!**
+1. **Open the source code and start editing!**
 
   Your site is now running at `http://localhost:8000`!
 
@@ -32,7 +32,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
   Open the `my-website` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🧐 Features
+## 🎉 Features
 
 - [ ] Easy editable content in **Markdown** files (posts, pages and parts)
 - [ ] **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
