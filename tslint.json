@@ -1,0 +1,32 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-config-prettier",
+        "tslint-react",
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "arrow-parens": false,
+        "interface-name": [
+            true,
+            "never-prefix"
+        ],
+        "jsx-no-lambda": false,
+        "jsx-no-multiline-js": false,
+        "missing-jsdoc": false,
+        "prettier": true,
+        "quotemark": [
+            true,
+            "single",
+            "jsx-double"
+        ],
+        "semicolon": [
+            true,
+            "always"
+        ]
+    },
+    "rulesDirectory": [
+        "tslint-plugin-prettier"
+    ]
+}
